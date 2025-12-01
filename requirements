@@ -1,0 +1,7 @@
+pip install -r requirements.txt
+streamlit
+pandas
+graphviz
+requests
+pyyaml
+great_expectations
